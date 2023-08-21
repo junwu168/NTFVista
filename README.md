@@ -18,7 +18,7 @@ NFTvista is a web application that illuminates the rapidly evolving landscape of
 </div>
 
 ## Try it out
-Websit Link: [Game StreamHub](https://ntfvista.junmingthecoder.com)
+Websit Link: [NFTVista](https://ntfvista.junmingthecoder.com)
 
 ## License
 [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)

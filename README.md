@@ -18,7 +18,7 @@ NFTvista is a web application that illuminates the rapidly evolving landscape of
 </div>
 
 ## Try it out
-Website Link: [NFTVista](https://nftvista.junmingthecoder.com/)
+Website Link: ~~[NFTVista](https://nftvista.junmingthecoder.com/)~~ Deprecated
 
 ## License
 [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
